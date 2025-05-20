@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @cangelo21
+/src/backend/database.py      @cangelo21
+/src/backend/routers/auth.py  @cangelo21
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @cangelo21
